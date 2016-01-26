@@ -1,0 +1,7 @@
+* 阿玖的第一个org-mode文件
+* TODO 
+* 这是一个列表
+| name | age       | score |
+|------+-----------+-------|
+| cc   | cc  asdas | cad   |
+|      |           |       |
